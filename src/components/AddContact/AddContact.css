@@ -1,0 +1,10 @@
+/* .AddContact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.AddContact div, button {
+    max-width: 200px;
+    margin: auto !important;
+} */
